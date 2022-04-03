@@ -28,7 +28,7 @@ const songs = [
     artist: 'Jacinto Design',
   },
   {
-    name: 'Jacinto-4',
+    name: 'jacinto-4',
     displayName: 'Front Row (Remix)',
     artist: 'Metric/Jacinto Design',
   },
